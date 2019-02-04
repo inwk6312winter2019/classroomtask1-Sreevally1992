@@ -12,3 +12,7 @@ def stringoperation():
 
 stringoperation()
 
+'''
+Task1
+'''
+
